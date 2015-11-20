@@ -55,6 +55,7 @@ input {
     position: absolute;
     top: 10px;
     left: 10px;
+    text-align: center;
     font-weight: bold;
     font-family: Helvetica;
     text-shadow: 0 0 5px rgba(0,0,0,0.4);
@@ -88,6 +89,8 @@ footer {
 
 footer img {
   float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
   margin-right: 40px;
   width: 240px;
 }
