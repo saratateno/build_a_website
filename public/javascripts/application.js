@@ -43,5 +43,5 @@ $(document).on('change', '#caption-colour', function() {
 });
 
 $(document).on('change', '#caption-align', function() {
-  $("#caption").css("text-align", $(this).val() + 'px');
+  $("#caption").css("text-align", $(this).val());
 });
